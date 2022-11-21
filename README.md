@@ -2,7 +2,8 @@
 
 1.Advenced Bios Unlock:
 
-*Click in order: F1,1,Q,A,Z,F2,2,W,S,X,F3,3,E,D,C,F4,4,R,F,V,F5,5,T,G,B,F6,6,Y,H,N and Press FN + F2
+*With the computer turned off, press the following keys in sequence: F1,1,Q,A,Z,F2,2,W,S,X,F3,3,E,D,C,F4,4,R,F,V,F5,5,T,G,B,F6,6,Y,H,N 
+Then turn on the computer and press FN + F2.
 
 2.Advenced -> Power & Preformace -> CPU - Power Management Control -> CPU Lock Configuration ->
 
