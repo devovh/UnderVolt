@@ -13,4 +13,4 @@ Then turn on the computer and press FN + F2.
 
 *Save and Exit (F10).
 
-3.Download this repository and run ThrottleStop.exe and Turn On.
+3.Download this repository, Extract and run ThrottleStop.exe and Turn On.
